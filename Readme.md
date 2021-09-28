@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
 * Студент: [Олег Масягин](https://up.htmlacademy.ru/react/8/user/1319083).
-* Наставник: `Неизвестно`.
+* Наставник: [Виктор Кан](https://htmlacademy.ru/profile/viktorkan)
 
 ---
 
